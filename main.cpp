@@ -12,7 +12,7 @@ int main() {
      *          myList.insertLast(10);
      */
 
-    cout<<myList;
+    std::cout<<myList;
 
     return 0;
 }
